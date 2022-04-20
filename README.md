@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# You've Reached Wes Harllee's github profile
+
+## interests (numbered list)
+1. Dad Life
+1. Music Production
+1. Software Development
+
+## Technologies (bullet list)
+
+* lookee here
+* woohoo
+
+## jobs (table with three columns)
+|Company  |Role  | Years |
+|--|--|--|
+|BCFS|Lead Data Analyst|2020-2022
+
+### Does this create a smaller font?
+#### Testing
+##### Testing
