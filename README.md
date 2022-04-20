@@ -18,21 +18,31 @@ Here are some ideas to get you started:
 
 # You've Reached Wes Harllee's github profile
 
-## interests (numbered list)
+
+## Interests: 
 1. Dad Life
-1. Music Production
 1. Software Development
+1. Music Production
+1. Photography
+1. Creating the perfect taco
 
-## Technologies (bullet list)
+## Technologies 
+* HTML
+* CSS
+* Java
+* Python (coming soon)
+* Excel
+* Logic
+* Pro-Tools
 
-* lookee here
-* woohoo
 
-## jobs (table with three columns)
+## Jobs 
 |Company  |Role  | Years |
 |--|--|--|
-|BCFS|Lead Data Analyst|2020-2022
+|BCFS|Lead Logicistical Data Analyst |2020-2022
+Harllee Haus Studios|Owner/Producer/Engineer|2016-Present
+Texture Creative Photo Studio|Owner/Curator|2021-Present
+Touring Musician|Guitar/Bass/Aux/Vocals|2012-2020
 
-### Does this create a smaller font?
-#### Testing
-##### Testing
+
+###### Please Leave a Message
